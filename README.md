@@ -1,5 +1,5 @@
 # erdos_quant_finance
-This GitHub repository contains a series of four mini-projects exploring key concepts in quantitative finance.
+This GitHub repository contains a series of four mini-projects exploring key concepts in quantitative finance. Each miniproject is contained in its own Jupyter Notebook above. The four mini projects I investigate are:
 1) Portfolio Construction – Designed both high-risk and low-risk portfolios using historical stock data from yfinance.
 2) Statistical Assumptions – Tested core assumptions of financial mathematics, including whether stock log-returns follow a normal distribution.
 3) Option Pricing Visualization – Created visualizations to illustrate how option prices evolve with changes in spot price and time to maturity.
